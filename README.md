@@ -7,6 +7,7 @@ Senior Frontend Developer
 Frontend engineer with 10+ years of professional experience building high-performance web applications. I specialize in creating scalable, maintainable solutions with a focus on code quality, design consistency, and user accessibility.
 
 🛠️ Technical Skills
+
 Core Languages: JavaScript | TypeScript | HTML5  | CSS3  | SCSS
 Frameworks & Libraries: ReactJS | Redux | Angular | jQuery
 UI & Styling: Bootstrap | Tailwind CSS | Angular Material  | Responsive Web Design | Figma | Sketch
