@@ -4,7 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Frontend Developer
 -------------------------
 
-I’m a Senior Frontend engineer with 15 years of professional experience using Javascript, ReactJS, Redux, Typescript, HTML5, CSS3, and Bootstrap. I was part of an agile development team in charge of developing highly scalable and reliable applications using ReactJS, Javascript, Typescript, jQuery, HTML5, CSS3, GitHub Copilot and Bootstrap.
+Frontend engineer with 10+ years of professional experience building high-performance web applications. I specialize in creating scalable, maintainable solutions with a focus on code quality, design consistency, and user accessibility.
+
+🛠️ Technical Skills
+Core Languages: JavaScript | TypeScript | HTML5  | CSS3  | SCSS
+Frameworks & Libraries: ReactJS | Redux | Angular | jQuery
+UI & Styling: Bootstrap | Tailwind CSS | Angular Material  | Responsive Web Design | Figma | Sketch
+Specialized: AEM CMS UI | Qlik Sense Mashup UI | Web Accessibility | Cross-browser Compatibility
+Testing & APIs: Jest | React Testing Library  | REST API | JSON
+Tools & Workflows: Git | JIRA | Agile/Scrum 
+
+🎯 Strengths
+
+Building scalable, maintainable frontend solutions
+Cross-browser compatibility and responsive design
+Component-based architecture with reusable patterns
+Design system collaboration (Figma, Sketch)
+Web accessibility standards compliance
+Team leadership and agile methodologies
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [pavithra.bhanumoorthy0807@gmail.com](mailto:pavithra.bhanumoorthy0807@gmail.com)
