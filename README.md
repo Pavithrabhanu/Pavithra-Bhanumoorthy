@@ -18,10 +18,15 @@ Tools & Workflows: Git | JIRA | Agile/Scrum
 🎯 Strengths
 
 Building scalable, maintainable frontend solutions
+
 Cross-browser compatibility and responsive design
+
 Component-based architecture with reusable patterns
+
 Design system collaboration (Figma, Sketch)
+
 Web accessibility standards compliance
+
 Team leadership and agile methodologies
 
 * 🌍  I'm based in Germany
